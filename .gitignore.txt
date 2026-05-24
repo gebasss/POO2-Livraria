@@ -1,0 +1,1 @@
+# Maventarget/# Eclipse.classpath.project.settings/# Variáveis de ambiente sensíveis (NUNCA suba senhas!)*.env
