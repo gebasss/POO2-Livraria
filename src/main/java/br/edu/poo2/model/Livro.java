@@ -122,4 +122,7 @@ public class Livro {
                ", editora='" + (editora != null ? editora.getNome() : "?") + '\'' +
                '}';
     }
+    public void setAutores(List<Autor> autores) {
+    this.autores = autores;
+    }
 }
